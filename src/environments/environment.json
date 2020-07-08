@@ -1,0 +1,18 @@
+{
+    "production": false,
+
+    "MSALSettings": {
+        "config": {
+            "auth": {
+                "authority": "",
+                "redirectUri": "",
+                "clientId": "",
+                "postLogoutRedirectUri": "",
+                "consentScopes": []
+            }
+        },
+        "apiScopes": []
+    },
+
+    "apiURL": ""
+}

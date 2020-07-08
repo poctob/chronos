@@ -21,5 +21,6 @@ pnpm-debug.log*
 *.sln
 *.sw?
 
-src/environments/environment.ts
 vue.config.js
+src/environments/environment.prod.json
+src/environments/environment.local.json
